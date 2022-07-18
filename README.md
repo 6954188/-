@@ -1,5 +1,5 @@
 # -{
-    "vers:on":i"1.0",
+    "version": "1.0",
     "sourceName": "小天源",
     "sourceAuthor": "GBox Official",
     "sourceLinkTitle": "主页",
